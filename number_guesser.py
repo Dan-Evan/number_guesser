@@ -1,10 +1,11 @@
+#**********************************************************************************
 # Name of author: Daniel Evans
 # Date Created: August 11, 2021
 # Description: This program will have the user enter the to range 
 #              and them guess which number was selected.
 # Credit: Made this base code by following along with YouTuber 'Tech with Tim' 
 #         and made my own editions
-
+#
 #**********************************************************************************
 
 import random # The random module with the randomizing function I need
